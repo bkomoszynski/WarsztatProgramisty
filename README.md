@@ -35,5 +35,5 @@ print(a*b)
 Przykładowy tekst do zagnieżdżenia kodu `print("przykladowy kod")` dalsza część teksu...
 
 
-![alt text](https://github.com/bkomoszynski/WarsztatProgramisty/kot.jpeg?raw=true)
+![alt text](kot.jpeg)
 
