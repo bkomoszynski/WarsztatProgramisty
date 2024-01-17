@@ -7,9 +7,7 @@
 *Paragraf 3*
 
 
-> „Wiek nie ma znaczenia,
-> chyba że jesteś serem”. 
-> ~Billie Burke
+> „Wiek nie ma znaczenia, chyba że jesteś serem”. ~Billie Burke
 
 Lista:
 1. Element 1
@@ -35,4 +33,7 @@ print(a*b)
 ```
 
 Przykładowy tekst do zagnieżdżenia kodu `print("przykladowy kod")` dalsza część teksu...
+
+
+![alt text](https://github.com/bkomoszynski/WarsztatProgramisty/kot.jpeg?raw=true)
 
